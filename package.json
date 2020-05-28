@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^14.3.0",
+    "nodejs": "^0.0.0"
+  }
+}
