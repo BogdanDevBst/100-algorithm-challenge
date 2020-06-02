@@ -1,4 +1,4 @@
-function arrayMaximalAdjacentDifference(inputArray: number[]): number {
+const arrayMaximalAdjacentDifference = (inputArray: number[]): number => {
 
 }
 
