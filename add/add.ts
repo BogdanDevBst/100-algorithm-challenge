@@ -4,6 +4,7 @@ const add = (param1: number, param2: number): number => {
 
 const add2 = (...param1: number[]): number => {
   let total = 0;
+
   param1.forEach((num) => {
     total += num;
   });
